@@ -6,3 +6,5 @@ python/core_basics/dataStructures/.ipynb_checkpoints/data_structures-checkpoint.
 python/core_basics/controlFlow/.ipynb_checkpoints/controlflow-checkpoint.ipynb
 python/core_basics/datatypes/.DS_Store
 python/core_basics/functions/.ipynb_checkpoints/functions-checkpoint.ipynb
+.DS_Store
+python/core_basics/scripting/__pycache__/useful_functions.cpython-310.pyc
